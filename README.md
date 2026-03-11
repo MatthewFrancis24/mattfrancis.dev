@@ -40,7 +40,8 @@ I enjoy building lab environments, solving complex issues, and documenting solut
 
 **Automation**
 - PowerShell
-- scripting
+- Scripting
+
 ---
 
 ## Projects
