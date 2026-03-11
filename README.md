@@ -1,6 +1,11 @@
 # Matthew Francis
 
-IT Systems Administrator | Infrastructure | Security
+Systems Administrator | Infrastructure | Security
+
+🌐 Website: https://mattfrancis.dev  
+💼 LinkedIn: https://linkedin.com/in/-matthew-francis 
+📄 Resume: [Download Resume](Matthew Francis 2026 -.pdf)  
+💻 GitHub: https://github.com/mattfrancis24
 
 Welcome to my personal portfolio site.
 
