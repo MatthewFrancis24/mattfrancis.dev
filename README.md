@@ -20,17 +20,27 @@ I enjoy building lab environments, solving complex issues, and documenting solut
 
 ---
 
-## Skills
+## Technical Skills
 
+**Infrastructure**
 - Windows Server
 - Active Directory
 - Microsoft 365
 - Networking
-- Virtualization
-- Proxmox
-- Linux
-- PowerShell
 
+**Virtualization**
+- Proxmox
+- Virtual Machines
+- Homelab environments
+
+**Security**
+- Secure Score hardening
+- Identity protection
+- Access policies
+
+**Automation**
+- PowerShell
+- scripting
 ---
 
 ## Projects
