@@ -49,11 +49,11 @@ I enjoy building lab environments, solving complex issues, and documenting solut
 ### [Proxmox Homelab](projects/proxmox-homelab.md)
 Virtualized environment used to simulate enterprise infrastructure.
 
-### Active Directory Lab
-Windows Server domain environment for testing policies, authentication, and security.
+### [Active Directory Lab](projects/ad-lab.md)
+Windows Server domain environment for testing identity management and group policies.
 
-### Microsoft 365 Security Hardening
-Improving Secure Score and implementing identity protection policies.
+### [Microsoft 365 Security Hardening](projects/m365-security.md)
+Improving tenant security posture through identity protection and Secure Score improvements.
 
 ---
 
