@@ -7,9 +7,7 @@ Systems Administrator | Infrastructure | Security
 📄 Resume: [Download Resume](Matthew_Francis_Resume.pdf)  
 💻 GitHub: https://github.com/mattfrancis24
 
-Welcome to my personal portfolio site.
-
-This site documents my technical projects, homelab infrastructure, and troubleshooting work.
+Welcome to my technical portfolio documenting infrastructure projects, homelab environments, and troubleshooting work.
 
 ---
 
@@ -61,7 +59,7 @@ Improving Secure Score and implementing identity protection policies.
 
 ## GitHub
 
-https://github.com/mattfrancis24
+GitHub: https://github.com/mattfrancis24
 
 ---
 
