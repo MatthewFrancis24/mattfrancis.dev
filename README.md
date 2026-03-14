@@ -3,7 +3,7 @@
 Systems Administrator | Infrastructure | Security
 
 🌐 Website: https://mattfrancis.dev  
-💼 LinkedIn: https://linkedin.com/in/-matthew-francis 
+💼 LinkedIn: https://linkedin.com/in/-matthew-francis  
 📄 Resume: [Download Resume](Matthew_Francis_Resume.pdf)  
 💻 GitHub: https://github.com/mattfrancis24
 
