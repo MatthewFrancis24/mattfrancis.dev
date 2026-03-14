@@ -46,7 +46,7 @@ I enjoy building lab environments, solving complex issues, and documenting solut
 
 ## Projects
 
-### Proxmox Homelab
+### [Proxmox Homelab](projects/proxmox-homelab.md)
 Virtualized environment used to simulate enterprise infrastructure.
 
 ### Active Directory Lab
