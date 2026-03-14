@@ -1,5 +1,3 @@
-# Matthew Francis
-
 ### Systems Administrator | Infrastructure | Security
 
 Welcome to my technical portfolio documenting infrastructure projects, homelab environments, and troubleshooting work.
