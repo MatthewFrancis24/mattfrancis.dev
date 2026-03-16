@@ -9,7 +9,7 @@ Welcome to my technical portfolio documenting infrastructure projects, homelab e
 🌐 Website: https://mattfrancis.dev  
 💼 LinkedIn: https://linkedin.com/in/-matthew-francis  
 💻 GitHub: https://github.com/mattfrancis24  
-📄 Resume: [Download Resume](Matthew-Francis-Resume.pdf)
+📄 Resume: [Download Resume](Matthew_Francis_Resume.pdf)
 
 ---
 
